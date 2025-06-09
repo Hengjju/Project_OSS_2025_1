@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhl45\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Project_OSS_2025_1\\OSS_Budget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhl45\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Project_OSS_2025_1\\OSS_Budget\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhl45\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Project_OSS_2025_1\\OSS_Budget\\budget.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:budget.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jhl45\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Project_OSS_2025_1\\OSS_Budget\\expense.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:expense.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\jhl45\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Project_OSS_2025_1\\OSS_Budget\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\jhl45\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Project_OSS_2025_1\\OSS_Budget\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-09T18:22:38.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "expense.py",
+              "DocumentMoniker": "C:\\Users\\jhl45\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Project_OSS_2025_1\\OSS_Budget\\expense.py",
+              "RelativeDocumentMoniker": "expense.py",
+              "ToolTip": "C:\\Users\\jhl45\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Project_OSS_2025_1\\OSS_Budget\\expense.py",
+              "RelativeToolTip": "expense.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-09T18:22:36.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "budget.py",
+              "DocumentMoniker": "C:\\Users\\jhl45\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Project_OSS_2025_1\\OSS_Budget\\budget.py",
+              "RelativeDocumentMoniker": "budget.py",
+              "ToolTip": "C:\\Users\\jhl45\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Project_OSS_2025_1\\OSS_Budget\\budget.py",
+              "RelativeToolTip": "budget.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-09T18:22:34.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
