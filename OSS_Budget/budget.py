@@ -73,6 +73,26 @@ class Budget:
 
         print("지출 내역이 성공적으로 수정되었습니다.\n")
 
+    def delete(self):  #기능 추가 2 (삭제하기)
+        if not self.expenses:
+            print("삭제할 지출 내역이 없습니다.\n")
+            return
+
+        self.list_expenses()
+
+        try:
+            expense_index = int(input("삭제할 지출 번호를 입력하세요: ")) - 1
+            if not (0 <= expense_index < len(self.expenses)):
+                print("유효하지 않은 지출 번호입니다.\n")
+                return
+        except ValueError:
+            print("잘못된 입력입니다. 숫자를 입력해주세요.\n")
+            return
+
+        deleted_expense = self.expenses.pop(expense_index) 
+        print(f"'{deleted_expense.description}' 지출이 삭제되었습니다.\n")
+
+
 
 
 
